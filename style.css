@@ -32,7 +32,7 @@ p{
     padding: 7px;
     width: 60%;
 }
-button{
+.button1{
     background-color: rgb(69, 179, 142);
     padding: 6px;
     border-radius: 0.5rem;
@@ -40,6 +40,15 @@ button{
     color: white;
     font-weight: 700;
     width: 60px;
+}
+.button2{
+    background-color: pink;
+    padding: 10px;
+    border-radius: 0.5rem;
+    border: rgb(255, 79, 187);
+    color: white;
+    font-weight: 700;
+    width: 100px;
 }
 #number{
     padding: 10px;
