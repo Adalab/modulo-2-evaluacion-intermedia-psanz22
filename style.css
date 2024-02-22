@@ -29,6 +29,7 @@ p{
     border: 3px solid lightgray;
     margin-bottom: 10px;
     padding: 7px;
+    width: 60%;
 }
 button{
     background-color: rgb(69, 179, 142);
